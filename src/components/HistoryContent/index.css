@@ -1,0 +1,43 @@
+.list-item{
+    margin-bottom: 1px;
+    }
+    .left-part{
+    display: flex;
+    align-items: center;
+    }
+    .list-content{
+        display: flex;
+        justify-content: space-between;
+    }
+    
+    .his-time{
+        margin-left: 25px;
+        margin-right: 40px;
+        font-family: "Roboto";
+       
+       }
+       .his-img{
+       height: 25px;
+       margin-right: 25px;
+       }
+       .his-title{
+       margin-right: 25px;
+       font-family: "Roboto";
+       
+       }
+       .his-url{
+        color: #64748b;
+        font-family: "Roboto";
+       }
+      .right-part{
+        display: flex;
+        align-items: center;
+        margin-right: 30px;
+      }
+    .delete-btn{
+           
+           background-color: white;
+           border:none;
+           cursor: pointer;
+           outline: none;
+       }
